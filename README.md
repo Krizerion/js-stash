@@ -1,1 +1,3 @@
 # js-stash
+
+Just some random JS stuff that may come handy some day...
